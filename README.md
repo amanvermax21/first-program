@@ -1,1 +1,6 @@
-#hello-world
+#include<studio.h>
+voidmain()
+{
+print ("hello world...!!!);
+}
+
